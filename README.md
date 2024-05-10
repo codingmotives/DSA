@@ -1,2 +1,2 @@
 # DSA
-Repo for DS and algo problems
+This repo contains some important and complex problems for DS and algo.
